@@ -1,7 +1,7 @@
 
 <div>
   <!--Header-->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&fontSize=50&section=header&text=Hello, I am a backend developer.">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Hello,%20I%20am%20a%20backend%20developer.&fontSize=50">
 </div>
 
 <div>
