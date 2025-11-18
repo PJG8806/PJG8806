@@ -1,16 +1,16 @@
 
 <div>
   <!--Header-->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Good%20to%20see%20you%20%F0%9F%A4%97">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&fontSize=50&section=header&text=Hello, I am a backend developer.">
 </div>
 
 <div>
   <!--Body-->
   
   ## 👀 About Me
-  #### :raising_hand: I am a ...<br/>
-  #### :fire: I aim to become a ...<br/>
-  #### :mortar_board: ...
+  #### :raising_hand: I'm relearning as a backend developer.<br/>
+  #### :fire: I want to be a passionate developer who is good at solving problems.<br/>
+  #### :mortar_board: I will study hard and become a proper developer.
   <br/>
   <br/>
   
@@ -28,7 +28,7 @@
     <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=unity&logoColor=white">
   <br/>
   
-  ### Framework
+  ### Frameworks
   <!--Flask-->
   <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=Flask&logoColor=white"/>
   <!--Django-->
