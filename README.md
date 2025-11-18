@@ -25,7 +25,7 @@
   <!--CSS-->
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
   <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white&flat-square&PHP&langoColor=black">
-    <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=unity&logoColor=white">
+    <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=-C%23-000000&logoColor=white">
   <br/>
   
   ### Frameworks
